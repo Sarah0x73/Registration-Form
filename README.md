@@ -1,2 +1,2 @@
-#Registration Form:
+# Registration Form:
 This form contains the main personal information of the user such as: First Name,Last Name,Phone Number,.......
